@@ -3,19 +3,14 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npx nodemon index.js",
     "dev": "npx nodemon server.js"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 8d6b00f3c0c073f379fde0cd584f077ff0a14020
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-<<<<<<< HEAD
     "axios": "^1.7.2",
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
@@ -32,6 +27,7 @@
     "jwks-rsa": "^3.1.0",
     "mongodb": "^6.8.0",
     "mongoose": "^8.4.3",
+    "node-cron": "^3.0.3",
     "passport": "^0.7.0",
     "passport-google-oauth2": "^0.2.0",
     "passport-google-oauth20": "^2.0.0",
@@ -39,13 +35,5 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.4"
-=======
-    "bcrypt": "^5.1.1",
-    "bcryptjs": "^2.4.3",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.4.3"
->>>>>>> 8d6b00f3c0c073f379fde0cd584f077ff0a14020
   }
 }
