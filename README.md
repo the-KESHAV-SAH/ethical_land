@@ -1,4 +1,4 @@
-# Online Judge (CodeFlow)
+# Online Judge (Ethical Land)
 > #### An Online-judge system based on Node and React (MERN Stack). 
 > #### <a href="https://codeflowoj.netlify.app/">Live</a> 
 ## Features
