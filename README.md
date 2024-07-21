@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Online Judge (Ethical Land)
 > #### An Online-judge system based on Node and React (MERN Stack). 
 > #### <a href="https://Ethical Landoj.netlify.app/">Live</a> 
@@ -96,3 +97,6 @@ The Server is built with Express and MongoDB. The used libraries for server are 
 
 
 
+=======
+# ethical_land
+>>>>>>> 8d6b00f3c0c073f379fde0cd584f077ff0a14020

@@ -1,5 +1,9 @@
 .env
 node_modules
+<<<<<<< HEAD
 codes
 outputs
 inputs
+=======
+package-lock.json
+>>>>>>> 8d6b00f3c0c073f379fde0cd584f077ff0a14020
