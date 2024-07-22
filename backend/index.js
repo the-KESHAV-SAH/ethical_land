@@ -34,7 +34,7 @@ app.use('/api',ProblemRoutes)
 app.use('/api', ContestRoutes)
 
 app.get('/', (req, res) => {
-    res.send('Welcome');
+    res.send('Welcome to ethical-land');
 });
 
 app.get('/keep-alive', (req, res) => {
